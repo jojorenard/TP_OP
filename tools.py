@@ -31,3 +31,11 @@ def parse_file (file):
 a, b = parse_file("data/taillard12a.txt")
 print(a)
 print(b)
+
+
+def fitness(weight_array, dist_array, placement_array):
+    sum = 0
+    for index_a, placement_a in enumerate(placement_array):
+        for index_b, placement_b in enumerate(placement_array[index_a+1:]):
+            sum += weight_array[placement_a][placement_b]*dist_array[index_a][index_b]
+    return sum*2
