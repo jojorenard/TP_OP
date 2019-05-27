@@ -1,6 +1,7 @@
 import numpy as np
 
 
+
 def parse_file (file):
     taillard_file = open(file, "r")
     line = taillard_file.readline()
@@ -28,14 +29,15 @@ def parse_file (file):
     return weight, distance
 
 
-a, b = parse_file("data/taillard12a.txt")
-print(a)
-print(b)
-
-
 def fitness(weight_array, dist_array, placement_array):
     sum = 0
     for index_a, placement_a in enumerate(placement_array):
         for index_b, placement_b in enumerate(placement_array[index_a+1:]):
-            sum += weight_array[placement_a][placement_b]*dist_array[index_a][index_b]
+            sum += weight_array[placement_a][placement_b]*dist_array[index_a][index_b + index_a + 1]
     return sum*2
+
+
+"""a, b = parse_file("data/taillard12a.txt")
+print(a)
+print(b)
+"""
