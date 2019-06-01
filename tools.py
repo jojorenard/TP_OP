@@ -37,6 +37,22 @@ def fitness(weight_array, dist_array, placement_array):
     return sum*2
 
 
+def get_rand_voisin(solution):
+    voisins = get_voisins(solution)
+    return voisins[np.random.randint(len(voisins))]
+
+
+def get_voisins(solution):
+    voisins = []
+    for index, x in enumerate(solution):
+        for index2, y in enumerate(solution[index + 1:]):
+            voisin = solution.copy()
+            voisin[index] = y
+            voisin[index2 + index + 1] = x
+            voisins += [voisin]
+    return voisins
+
+
 """a, b = parse_file("data/taillard12a.txt")
 print(a)
 print(b)
