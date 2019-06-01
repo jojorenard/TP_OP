@@ -1,5 +1,6 @@
 from Methodes.aleatoire import Aleatoire
 from Methodes.Tabou import Tabou
+from Methodes.Recuit import Recuit
 import tools
 import numpy as np
 
@@ -20,3 +21,5 @@ def lancer_tabou(iteration):
 
 
 lancer_tabou(1)
+
+Recuit(a,b, 60000, 1000, 1000, 0.99)
