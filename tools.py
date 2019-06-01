@@ -1,6 +1,5 @@
 import numpy as np
-
-
+from Methodes.Tabou import Tabou
 
 def parse_file (file):
     taillard_file = open(file, "r")
@@ -29,6 +28,11 @@ def parse_file (file):
     return weight, distance
 
 
+"""a, b = parse_file("data/taillard12a.txt")
+print(a)
+print(b)"""
+
+
 def fitness(weight_array, dist_array, placement_array):
     sum = 0
     for index_a, placement_a in enumerate(placement_array):
@@ -37,7 +41,8 @@ def fitness(weight_array, dist_array, placement_array):
     return sum*2
 
 
-"""a, b = parse_file("data/taillard12a.txt")
-print(a)
-print(b)
-"""
+def tab_contains(tab, element):
+    for tab_element in tab:
+        if tab_element == element:
+            return True
+    return False
