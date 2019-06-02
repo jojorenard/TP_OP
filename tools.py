@@ -37,7 +37,7 @@ def fitness(weight_array, dist_array, placement_array):
     sum = 0
     for index_a, placement_a in enumerate(placement_array):
         for index_b, placement_b in enumerate(placement_array[index_a+1:]):
-            sum += weight_array[placement_a][placement_b]*dist_array[index_a][index_b + index_a + 1]
+            sum += weight_array[index_a][index_b + index_a + 1]*dist_array[placement_a][placement_b]
     return sum*2
 
 
@@ -46,6 +46,7 @@ def tab_contains(tab, element):
         if tab_element == element:
             return True
     return False
+
 
 def get_rand_voisin(solution):
     voisins = get_voisins(solution)

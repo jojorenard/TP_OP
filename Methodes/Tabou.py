@@ -4,26 +4,27 @@ import tools
 
 class Tabou:
 
-    def __init__(self, weight_array, dim_array, tabu_size, iteration_number):
+    def __init__(self, weight_array, dim_array, tabu_size, iteration_number, placement_array):
         self.weight_array = weight_array
         self.dim_array = dim_array
         self.tabu_size = tabu_size
         self.iteration_number = iteration_number
 
-        # chaque index représente l'emplacement et la valeur serait la machine sur l'emplacement
-        # Etant en python, les listes commencent par l'index 0. Donc l'emplacement 1 sera l'index 0; idem machine
+        # chaque index représente la machine et la valeur serait l'emplacement de la machine
+        # Etant en python, les listes commencent par l'index 0. Donc la machine 1 sera l'index 0; idem emplacement
+        self.best_placement_array = placement_array
         self.tabu_list = []
 
     def execute(self):
         # best_placement_array = np.arange(0, len(self.dim_array), 1)
-        best_placement_array = [1, 3, 5, 7, 9, 11, 0, 2, 4, 6, 8, 10]
-        best_voisin = best_placement_array.copy()
-        best_fitness = tools.fitness(self.weight_array, self.dim_array, best_placement_array)
+        # best_placement_array = [1, 3, 5, 7, 9, 11, 0, 2, 4, 6, 8, 10]
+        best_voisin = self.best_placement_array.copy()
+        best_fitness = tools.fitness(self.weight_array, self.dim_array, self.best_placement_array)
 
         for i in range(self.iteration_number):
             fitness_voisin_min = float('inf')
             n_permutation = 0
-            print(i)
+            # print(i)
             voisins = self.calcul_voisinage(best_voisin)
             for index, voisin in enumerate(voisins):
                 fitness_voisin_pro = tools.fitness(self.weight_array, self.dim_array, voisin)
@@ -40,12 +41,12 @@ class Tabou:
                 else:
                     self.tabu_list += [n_permutation]
             else:
-                best_placement_array = best_voisin.copy()
+                self.best_placement_array = best_voisin.copy()
                 best_fitness = fitness_voisin_min
 
-        # print(best_placement_array)
+        # print(self.best_placement_array)
         # print(best_fitness)
-        return best_placement_array, best_fitness
+        return self.best_placement_array, best_fitness
 
     def calcul_voisinage(self, placement_array):
         voisins = []
