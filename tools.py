@@ -7,10 +7,10 @@ def parse_file (file):
     nb = int(line.strip())
     weight = []
     distance = []
-    print(nb)
+    # print(nb)
     i = 0
     for line in taillard_file.readlines():
-        print(line)
+        # print(line)
         tab = line.split()
         number_tab = [[int(x) for x in tab]]
         if len(number_tab[0]) != 0:
@@ -19,10 +19,10 @@ def parse_file (file):
                 weight += number_tab
             else:
                 distance += number_tab
-            print(number_tab)
-            print(distance)
-    print(weight)
-    print(distance)
+            # print(number_tab)
+            # print(distance)
+    # print(weight)
+    # print(distance)
     weight = np.array(weight)
     distance = np.array(distance)
     return weight, distance
