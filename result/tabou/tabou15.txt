@@ -1,0 +1,720 @@
+Temps d'exécution :0:00:01.323456
+Les paramètres: 
+La plaquette: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], Nombre de pas: 100
+Résultat du lancement de l'algo: 
+Fitness obtenue: 401230 après 98 pas
+Nombre de fitness calculé en tout: 10412
+Placement pour chaque équipement obtenu: [12, 1, 5, 11, 4, 13, 6, 7, 14, 0, 10, 9, 2, 8, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:00:01.318472
+Les paramètres: 
+La plaquette: [14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0], Nombre de pas: 100
+Résultat du lancement de l'algo: 
+Fitness obtenue: 408162 après 99 pas
+Nombre de fitness calculé en tout: 10409
+Placement pour chaque équipement obtenu: [14, 9, 7, 13, 10, 8, 12, 5, 6, 11, 0, 3, 4, 1, 2]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:00:01.316479
+Les paramètres: 
+La plaquette: [0, 2, 4, 6, 8, 10, 12, 14, 1, 3, 5, 7, 9, 11, 13], Nombre de pas: 100
+Résultat du lancement de l'algo: 
+Fitness obtenue: 393146 après 98 pas
+Nombre de fitness calculé en tout: 10407
+Placement pour chaque équipement obtenu: [1, 9, 5, 12, 8, 7, 6, 11, 4, 13, 0, 14, 2, 10, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:00:13.011192
+Les paramètres: 
+La plaquette: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], Nombre de pas: 1000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 401230 après 998 pas
+Nombre de fitness calculé en tout: 104012
+Placement pour chaque équipement obtenu: [12, 1, 5, 11, 4, 13, 6, 7, 14, 0, 10, 9, 2, 8, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:00:13.137854
+Les paramètres: 
+La plaquette: [14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0], Nombre de pas: 1000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 408162 après 999 pas
+Nombre de fitness calculé en tout: 104009
+Placement pour chaque équipement obtenu: [14, 9, 7, 13, 10, 8, 12, 5, 6, 11, 0, 3, 4, 1, 2]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:00:13.103943
+Les paramètres: 
+La plaquette: [0, 2, 4, 6, 8, 10, 12, 14, 1, 3, 5, 7, 9, 11, 13], Nombre de pas: 1000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 393146 après 998 pas
+Nombre de fitness calculé en tout: 104007
+Placement pour chaque équipement obtenu: [1, 9, 5, 12, 8, 7, 6, 11, 4, 13, 0, 14, 2, 10, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:02:10.761184
+Les paramètres: 
+La plaquette: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], Nombre de pas: 10000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 401230 après 9998 pas
+Nombre de fitness calculé en tout: 1040012
+Placement pour chaque équipement obtenu: [12, 1, 5, 11, 4, 13, 6, 7, 14, 0, 10, 9, 2, 8, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:02:11.036450
+Les paramètres: 
+La plaquette: [14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0], Nombre de pas: 10000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 408162 après 9999 pas
+Nombre de fitness calculé en tout: 1040009
+Placement pour chaque équipement obtenu: [14, 9, 7, 13, 10, 8, 12, 5, 6, 11, 0, 3, 4, 1, 2]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:02:10.802075
+Les paramètres: 
+La plaquette: [0, 2, 4, 6, 8, 10, 12, 14, 1, 3, 5, 7, 9, 11, 13], Nombre de pas: 10000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 393146 après 9998 pas
+Nombre de fitness calculé en tout: 1040007
+Placement pour chaque équipement obtenu: [1, 9, 5, 12, 8, 7, 6, 11, 4, 13, 0, 14, 2, 10, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:10:54.703521
+Les paramètres: 
+La plaquette: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], Nombre de pas: 50000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 401230 après 49998 pas
+Nombre de fitness calculé en tout: 5200012
+Placement pour chaque équipement obtenu: [12, 1, 5, 11, 4, 13, 6, 7, 14, 0, 10, 9, 2, 8, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:10:52.312920
+Les paramètres: 
+La plaquette: [14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0], Nombre de pas: 50000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 408162 après 49999 pas
+Nombre de fitness calculé en tout: 5200009
+Placement pour chaque équipement obtenu: [14, 9, 7, 13, 10, 8, 12, 5, 6, 11, 0, 3, 4, 1, 2]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:10:52.633061
+Les paramètres: 
+La plaquette: [0, 2, 4, 6, 8, 10, 12, 14, 1, 3, 5, 7, 9, 11, 13], Nombre de pas: 50000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 393146 après 49998 pas
+Nombre de fitness calculé en tout: 5200007
+Placement pour chaque équipement obtenu: [1, 9, 5, 12, 8, 7, 6, 11, 4, 13, 0, 14, 2, 10, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:22:12.401528
+Les paramètres: 
+La plaquette: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], Nombre de pas: 100000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 401230 après 99998 pas
+Nombre de fitness calculé en tout: 10400012
+Placement pour chaque équipement obtenu: [12, 1, 5, 11, 4, 13, 6, 7, 14, 0, 10, 9, 2, 8, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:21:46.673359
+Les paramètres: 
+La plaquette: [14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0], Nombre de pas: 100000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 408162 après 99999 pas
+Nombre de fitness calculé en tout: 10400009
+Placement pour chaque équipement obtenu: [14, 9, 7, 13, 10, 8, 12, 5, 6, 11, 0, 3, 4, 1, 2]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:21:48.150404
+Les paramètres: 
+La plaquette: [0, 2, 4, 6, 8, 10, 12, 14, 1, 3, 5, 7, 9, 11, 13], Nombre de pas: 100000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 393146 après 99998 pas
+Nombre de fitness calculé en tout: 10400007
+Placement pour chaque équipement obtenu: [1, 9, 5, 12, 8, 7, 6, 11, 4, 13, 0, 14, 2, 10, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:00:01.269601
+Les paramètres: 
+La plaquette: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], Nombre de pas: 100
+Résultat du lancement de l'algo: 
+Fitness obtenue: 401230 après 10 pas
+Nombre de fitness calculé en tout: 10070
+Placement pour chaque équipement obtenu: [12, 1, 5, 11, 4, 13, 6, 7, 14, 0, 10, 9, 2, 8, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:00:01.279577
+Les paramètres: 
+La plaquette: [14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0], Nombre de pas: 100
+Résultat du lancement de l'algo: 
+Fitness obtenue: 408162 après 7 pas
+Nombre de fitness calculé en tout: 10142
+Placement pour chaque équipement obtenu: [14, 9, 7, 13, 10, 8, 12, 5, 6, 11, 0, 3, 4, 1, 2]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:00:01.264616
+Les paramètres: 
+La plaquette: [0, 2, 4, 6, 8, 10, 12, 14, 1, 3, 5, 7, 9, 11, 13], Nombre de pas: 100
+Résultat du lancement de l'algo: 
+Fitness obtenue: 393146 après 98 pas
+Nombre de fitness calculé en tout: 10067
+Placement pour chaque équipement obtenu: [1, 9, 5, 12, 8, 7, 6, 11, 4, 13, 0, 14, 2, 10, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:00:12.587327
+Les paramètres: 
+La plaquette: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], Nombre de pas: 1000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 401230 après 10 pas
+Nombre de fitness calculé en tout: 100070
+Placement pour chaque équipement obtenu: [12, 1, 5, 11, 4, 13, 6, 7, 14, 0, 10, 9, 2, 8, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:00:12.739917
+Les paramètres: 
+La plaquette: [14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0], Nombre de pas: 1000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 408162 après 7 pas
+Nombre de fitness calculé en tout: 101042
+Placement pour chaque équipement obtenu: [14, 9, 7, 13, 10, 8, 12, 5, 6, 11, 0, 3, 4, 1, 2]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:00:12.583337
+Les paramètres: 
+La plaquette: [0, 2, 4, 6, 8, 10, 12, 14, 1, 3, 5, 7, 9, 11, 13], Nombre de pas: 1000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 393146 après 998 pas
+Nombre de fitness calculé en tout: 100067
+Placement pour chaque équipement obtenu: [1, 9, 5, 12, 8, 7, 6, 11, 4, 13, 0, 14, 2, 10, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:02:05.979978
+Les paramètres: 
+La plaquette: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], Nombre de pas: 10000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 401230 après 10 pas
+Nombre de fitness calculé en tout: 1000070
+Placement pour chaque équipement obtenu: [12, 1, 5, 11, 4, 13, 6, 7, 14, 0, 10, 9, 2, 8, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:02:07.442062
+Les paramètres: 
+La plaquette: [14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0], Nombre de pas: 10000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 408162 après 7 pas
+Nombre de fitness calculé en tout: 1010042
+Placement pour chaque équipement obtenu: [14, 9, 7, 13, 10, 8, 12, 5, 6, 11, 0, 3, 4, 1, 2]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:02:05.917144
+Les paramètres: 
+La plaquette: [0, 2, 4, 6, 8, 10, 12, 14, 1, 3, 5, 7, 9, 11, 13], Nombre de pas: 10000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 393146 après 9998 pas
+Nombre de fitness calculé en tout: 1000067
+Placement pour chaque équipement obtenu: [1, 9, 5, 12, 8, 7, 6, 11, 4, 13, 0, 14, 2, 10, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:10:29.478008
+Les paramètres: 
+La plaquette: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], Nombre de pas: 50000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 401230 après 10 pas
+Nombre de fitness calculé en tout: 5000070
+Placement pour chaque équipement obtenu: [12, 1, 5, 11, 4, 13, 6, 7, 14, 0, 10, 9, 2, 8, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:10:31.570406
+Les paramètres: 
+La plaquette: [14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0], Nombre de pas: 50000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 408162 après 7 pas
+Nombre de fitness calculé en tout: 5050042
+Placement pour chaque équipement obtenu: [14, 9, 7, 13, 10, 8, 12, 5, 6, 11, 0, 3, 4, 1, 2]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:10:23.607713
+Les paramètres: 
+La plaquette: [0, 2, 4, 6, 8, 10, 12, 14, 1, 3, 5, 7, 9, 11, 13], Nombre de pas: 50000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 393146 après 49998 pas
+Nombre de fitness calculé en tout: 5000067
+Placement pour chaque équipement obtenu: [1, 9, 5, 12, 8, 7, 6, 11, 4, 13, 0, 14, 2, 10, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:20:25.849926
+Les paramètres: 
+La plaquette: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], Nombre de pas: 100000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 401230 après 10 pas
+Nombre de fitness calculé en tout: 10000070
+Placement pour chaque équipement obtenu: [12, 1, 5, 11, 4, 13, 6, 7, 14, 0, 10, 9, 2, 8, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:20:47.601984
+Les paramètres: 
+La plaquette: [14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0], Nombre de pas: 100000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 408162 après 7 pas
+Nombre de fitness calculé en tout: 10100042
+Placement pour chaque équipement obtenu: [14, 9, 7, 13, 10, 8, 12, 5, 6, 11, 0, 3, 4, 1, 2]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:19:58.516914
+Les paramètres: 
+La plaquette: [0, 2, 4, 6, 8, 10, 12, 14, 1, 3, 5, 7, 9, 11, 13], Nombre de pas: 100000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 393146 après 99998 pas
+Nombre de fitness calculé en tout: 10000067
+Placement pour chaque équipement obtenu: [1, 9, 5, 12, 8, 7, 6, 11, 4, 13, 0, 14, 2, 10, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:00:01.194804
+Les paramètres: 
+La plaquette: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], Nombre de pas: 100
+Résultat du lancement de l'algo: 
+Fitness obtenue: 401230 après 10 pas
+Nombre de fitness calculé en tout: 9665
+Placement pour chaque équipement obtenu: [12, 1, 5, 11, 4, 13, 6, 7, 14, 0, 10, 9, 2, 8, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:00:01.219735
+Les paramètres: 
+La plaquette: [14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0], Nombre de pas: 100
+Résultat du lancement de l'algo: 
+Fitness obtenue: 408162 après 7 pas
+Nombre de fitness calculé en tout: 10142
+Placement pour chaque équipement obtenu: [14, 9, 7, 13, 10, 8, 12, 5, 6, 11, 0, 3, 4, 1, 2]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:00:01.212790
+Les paramètres: 
+La plaquette: [0, 2, 4, 6, 8, 10, 12, 14, 1, 3, 5, 7, 9, 11, 13], Nombre de pas: 100
+Résultat du lancement de l'algo: 
+Fitness obtenue: 393146 après 98 pas
+Nombre de fitness calculé en tout: 9687
+Placement pour chaque équipement obtenu: [1, 9, 5, 12, 8, 7, 6, 11, 4, 13, 0, 14, 2, 10, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:00:11.259876
+Les paramètres: 
+La plaquette: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], Nombre de pas: 1000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 401230 après 10 pas
+Nombre de fitness calculé en tout: 95165
+Placement pour chaque équipement obtenu: [12, 1, 5, 11, 4, 13, 6, 7, 14, 0, 10, 9, 2, 8, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:00:11.805418
+Les paramètres: 
+La plaquette: [14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0], Nombre de pas: 1000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 408162 après 7 pas
+Nombre de fitness calculé en tout: 101042
+Placement pour chaque équipement obtenu: [14, 9, 7, 13, 10, 8, 12, 5, 6, 11, 0, 3, 4, 1, 2]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:00:11.066396
+Les paramètres: 
+La plaquette: [0, 2, 4, 6, 8, 10, 12, 14, 1, 3, 5, 7, 9, 11, 13], Nombre de pas: 1000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 393146 après 998 pas
+Nombre de fitness calculé en tout: 95187
+Placement pour chaque équipement obtenu: [1, 9, 5, 12, 8, 7, 6, 11, 4, 13, 0, 14, 2, 10, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:01:59.697444
+Les paramètres: 
+La plaquette: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], Nombre de pas: 10000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 401230 après 10 pas
+Nombre de fitness calculé en tout: 950165
+Placement pour chaque équipement obtenu: [12, 1, 5, 11, 4, 13, 6, 7, 14, 0, 10, 9, 2, 8, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:01:56.645397
+Les paramètres: 
+La plaquette: [14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0], Nombre de pas: 10000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 408162 après 7 pas
+Nombre de fitness calculé en tout: 1010042
+Placement pour chaque équipement obtenu: [14, 9, 7, 13, 10, 8, 12, 5, 6, 11, 0, 3, 4, 1, 2]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:01:49.547178
+Les paramètres: 
+La plaquette: [0, 2, 4, 6, 8, 10, 12, 14, 1, 3, 5, 7, 9, 11, 13], Nombre de pas: 10000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 393146 après 9998 pas
+Nombre de fitness calculé en tout: 950187
+Placement pour chaque équipement obtenu: [1, 9, 5, 12, 8, 7, 6, 11, 4, 13, 0, 14, 2, 10, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:09:22.316684
+Les paramètres: 
+La plaquette: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], Nombre de pas: 50000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 401230 après 10 pas
+Nombre de fitness calculé en tout: 4750165
+Placement pour chaque équipement obtenu: [12, 1, 5, 11, 4, 13, 6, 7, 14, 0, 10, 9, 2, 8, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:09:43.853212
+Les paramètres: 
+La plaquette: [14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0], Nombre de pas: 50000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 408162 après 7 pas
+Nombre de fitness calculé en tout: 5050042
+Placement pour chaque équipement obtenu: [14, 9, 7, 13, 10, 8, 12, 5, 6, 11, 0, 3, 4, 1, 2]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:09:08.333494
+Les paramètres: 
+La plaquette: [0, 2, 4, 6, 8, 10, 12, 14, 1, 3, 5, 7, 9, 11, 13], Nombre de pas: 50000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 393146 après 49998 pas
+Nombre de fitness calculé en tout: 4750187
+Placement pour chaque équipement obtenu: [1, 9, 5, 12, 8, 7, 6, 11, 4, 13, 0, 14, 2, 10, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:18:18.611966
+Les paramètres: 
+La plaquette: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], Nombre de pas: 100000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 401230 après 10 pas
+Nombre de fitness calculé en tout: 9500165
+Placement pour chaque équipement obtenu: [12, 1, 5, 11, 4, 13, 6, 7, 14, 0, 10, 9, 2, 8, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:29:30.362181
+Les paramètres: 
+La plaquette: [14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0], Nombre de pas: 100000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 408162 après 7 pas
+Nombre de fitness calculé en tout: 10100042
+Placement pour chaque équipement obtenu: [14, 9, 7, 13, 10, 8, 12, 5, 6, 11, 0, 3, 4, 1, 2]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:18:24.134278
+Les paramètres: 
+La plaquette: [0, 2, 4, 6, 8, 10, 12, 14, 1, 3, 5, 7, 9, 11, 13], Nombre de pas: 100000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 393146 après 99998 pas
+Nombre de fitness calculé en tout: 9500187
+Placement pour chaque équipement obtenu: [1, 9, 5, 12, 8, 7, 6, 11, 4, 13, 0, 14, 2, 10, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:00:01.069140
+Les paramètres: 
+La plaquette: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], Nombre de pas: 100
+Résultat du lancement de l'algo: 
+Fitness obtenue: 401230 après 10 pas
+Nombre de fitness calculé en tout: 8930
+Placement pour chaque équipement obtenu: [12, 1, 5, 11, 4, 13, 6, 7, 14, 0, 10, 9, 2, 8, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:00:01.181841
+Les paramètres: 
+La plaquette: [14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0], Nombre de pas: 100
+Résultat du lancement de l'algo: 
+Fitness obtenue: 408162 après 7 pas
+Nombre de fitness calculé en tout: 10142
+Placement pour chaque équipement obtenu: [14, 9, 7, 13, 10, 8, 12, 5, 6, 11, 0, 3, 4, 1, 2]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:00:01.055176
+Les paramètres: 
+La plaquette: [0, 2, 4, 6, 8, 10, 12, 14, 1, 3, 5, 7, 9, 11, 13], Nombre de pas: 100
+Résultat du lancement de l'algo: 
+Fitness obtenue: 393146 après 98 pas
+Nombre de fitness calculé en tout: 9077
+Placement pour chaque équipement obtenu: [1, 9, 5, 12, 8, 7, 6, 11, 4, 13, 0, 14, 2, 10, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:00:09.853640
+Les paramètres: 
+La plaquette: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], Nombre de pas: 1000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 401230 après 10 pas
+Nombre de fitness calculé en tout: 85430
+Placement pour chaque équipement obtenu: [12, 1, 5, 11, 4, 13, 6, 7, 14, 0, 10, 9, 2, 8, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:00:11.704689
+Les paramètres: 
+La plaquette: [14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0], Nombre de pas: 1000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 408162 après 7 pas
+Nombre de fitness calculé en tout: 101042
+Placement pour chaque équipement obtenu: [14, 9, 7, 13, 10, 8, 12, 5, 6, 11, 0, 3, 4, 1, 2]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:00:09.830700
+Les paramètres: 
+La plaquette: [0, 2, 4, 6, 8, 10, 12, 14, 1, 3, 5, 7, 9, 11, 13], Nombre de pas: 1000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 393146 après 998 pas
+Nombre de fitness calculé en tout: 85577
+Placement pour chaque équipement obtenu: [1, 9, 5, 12, 8, 7, 6, 11, 4, 13, 0, 14, 2, 10, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:01:37.983872
+Les paramètres: 
+La plaquette: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], Nombre de pas: 10000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 401230 après 10 pas
+Nombre de fitness calculé en tout: 850430
+Placement pour chaque équipement obtenu: [12, 1, 5, 11, 4, 13, 6, 7, 14, 0, 10, 9, 2, 8, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:01:56.301865
+Les paramètres: 
+La plaquette: [14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0], Nombre de pas: 10000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 408162 après 7 pas
+Nombre de fitness calculé en tout: 1010042
+Placement pour chaque équipement obtenu: [14, 9, 7, 13, 10, 8, 12, 5, 6, 11, 0, 3, 4, 1, 2]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:01:39.403507
+Les paramètres: 
+La plaquette: [0, 2, 4, 6, 8, 10, 12, 14, 1, 3, 5, 7, 9, 11, 13], Nombre de pas: 10000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 393146 après 9998 pas
+Nombre de fitness calculé en tout: 850577
+Placement pour chaque équipement obtenu: [1, 9, 5, 12, 8, 7, 6, 11, 4, 13, 0, 14, 2, 10, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:08:16.117775
+Les paramètres: 
+La plaquette: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], Nombre de pas: 50000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 401230 après 10 pas
+Nombre de fitness calculé en tout: 4250430
+Placement pour chaque équipement obtenu: [12, 1, 5, 11, 4, 13, 6, 7, 14, 0, 10, 9, 2, 8, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:09:47.384192
+Les paramètres: 
+La plaquette: [14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0], Nombre de pas: 50000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 408162 après 7 pas
+Nombre de fitness calculé en tout: 5050042
+Placement pour chaque équipement obtenu: [14, 9, 7, 13, 10, 8, 12, 5, 6, 11, 0, 3, 4, 1, 2]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:08:15.722829
+Les paramètres: 
+La plaquette: [0, 2, 4, 6, 8, 10, 12, 14, 1, 3, 5, 7, 9, 11, 13], Nombre de pas: 50000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 393146 après 49998 pas
+Nombre de fitness calculé en tout: 4250577
+Placement pour chaque équipement obtenu: [1, 9, 5, 12, 8, 7, 6, 11, 4, 13, 0, 14, 2, 10, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:16:31.293090
+Les paramètres: 
+La plaquette: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], Nombre de pas: 100000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 401230 après 10 pas
+Nombre de fitness calculé en tout: 8500430
+Placement pour chaque équipement obtenu: [12, 1, 5, 11, 4, 13, 6, 7, 14, 0, 10, 9, 2, 8, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:20:50.830188
+Les paramètres: 
+La plaquette: [14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0], Nombre de pas: 100000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 408162 après 7 pas
+Nombre de fitness calculé en tout: 10100042
+Placement pour chaque équipement obtenu: [14, 9, 7, 13, 10, 8, 12, 5, 6, 11, 0, 3, 4, 1, 2]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:17:22.505577
+Les paramètres: 
+La plaquette: [0, 2, 4, 6, 8, 10, 12, 14, 1, 3, 5, 7, 9, 11, 13], Nombre de pas: 100000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 393146 après 99998 pas
+Nombre de fitness calculé en tout: 8500577
+Placement pour chaque équipement obtenu: [1, 9, 5, 12, 8, 7, 6, 11, 4, 13, 0, 14, 2, 10, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:00:01.065819
+Les paramètres: 
+La plaquette: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], Nombre de pas: 100
+Résultat du lancement de l'algo: 
+Fitness obtenue: 401230 après 10 pas
+Nombre de fitness calculé en tout: 8015
+Placement pour chaque équipement obtenu: [12, 1, 5, 11, 4, 13, 6, 7, 14, 0, 10, 9, 2, 8, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:00:01.330362
+Les paramètres: 
+La plaquette: [14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0], Nombre de pas: 100
+Résultat du lancement de l'algo: 
+Fitness obtenue: 408162 après 7 pas
+Nombre de fitness calculé en tout: 10142
+Placement pour chaque équipement obtenu: [14, 9, 7, 13, 10, 8, 12, 5, 6, 11, 0, 3, 4, 1, 2]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:00:01.028509
+Les paramètres: 
+La plaquette: [0, 2, 4, 6, 8, 10, 12, 14, 1, 3, 5, 7, 9, 11, 13], Nombre de pas: 100
+Résultat du lancement de l'algo: 
+Fitness obtenue: 393146 après 98 pas
+Nombre de fitness calculé en tout: 8517
+Placement pour chaque équipement obtenu: [1, 9, 5, 12, 8, 7, 6, 11, 4, 13, 0, 14, 2, 10, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:00:08.676748
+Les paramètres: 
+La plaquette: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], Nombre de pas: 1000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 401230 après 10 pas
+Nombre de fitness calculé en tout: 71015
+Placement pour chaque équipement obtenu: [12, 1, 5, 11, 4, 13, 6, 7, 14, 0, 10, 9, 2, 8, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:00:12.046847
+Les paramètres: 
+La plaquette: [14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0], Nombre de pas: 1000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 408162 après 7 pas
+Nombre de fitness calculé en tout: 101042
+Placement pour chaque équipement obtenu: [14, 9, 7, 13, 10, 8, 12, 5, 6, 11, 0, 3, 4, 1, 2]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:00:08.467356
+Les paramètres: 
+La plaquette: [0, 2, 4, 6, 8, 10, 12, 14, 1, 3, 5, 7, 9, 11, 13], Nombre de pas: 1000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 393146 après 998 pas
+Nombre de fitness calculé en tout: 70617
+Placement pour chaque équipement obtenu: [1, 9, 5, 12, 8, 7, 6, 11, 4, 13, 0, 14, 2, 10, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:01:20.742747
+Les paramètres: 
+La plaquette: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], Nombre de pas: 10000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 401230 après 10 pas
+Nombre de fitness calculé en tout: 701015
+Placement pour chaque équipement obtenu: [12, 1, 5, 11, 4, 13, 6, 7, 14, 0, 10, 9, 2, 8, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:02:13.901540
+Les paramètres: 
+La plaquette: [14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0], Nombre de pas: 10000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 408162 après 7 pas
+Nombre de fitness calculé en tout: 1010042
+Placement pour chaque équipement obtenu: [14, 9, 7, 13, 10, 8, 12, 5, 6, 11, 0, 3, 4, 1, 2]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:01:21.908364
+Les paramètres: 
+La plaquette: [0, 2, 4, 6, 8, 10, 12, 14, 1, 3, 5, 7, 9, 11, 13], Nombre de pas: 10000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 393146 après 9998 pas
+Nombre de fitness calculé en tout: 691617
+Placement pour chaque équipement obtenu: [1, 9, 5, 12, 8, 7, 6, 11, 4, 13, 0, 14, 2, 10, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:07:05.578065
+Les paramètres: 
+La plaquette: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], Nombre de pas: 50000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 401230 après 10 pas
+Nombre de fitness calculé en tout: 3501015
+Placement pour chaque équipement obtenu: [12, 1, 5, 11, 4, 13, 6, 7, 14, 0, 10, 9, 2, 8, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:10:40.829403
+Les paramètres: 
+La plaquette: [14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0], Nombre de pas: 50000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 408162 après 7 pas
+Nombre de fitness calculé en tout: 5050042
+Placement pour chaque équipement obtenu: [14, 9, 7, 13, 10, 8, 12, 5, 6, 11, 0, 3, 4, 1, 2]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:07:09.120145
+Les paramètres: 
+La plaquette: [0, 2, 4, 6, 8, 10, 12, 14, 1, 3, 5, 7, 9, 11, 13], Nombre de pas: 50000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 393146 après 49998 pas
+Nombre de fitness calculé en tout: 3451617
+Placement pour chaque équipement obtenu: [1, 9, 5, 12, 8, 7, 6, 11, 4, 13, 0, 14, 2, 10, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:12:48.679713
+Les paramètres: 
+La plaquette: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], Nombre de pas: 100000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 401230 après 10 pas
+Nombre de fitness calculé en tout: 7001015
+Placement pour chaque équipement obtenu: [12, 1, 5, 11, 4, 13, 6, 7, 14, 0, 10, 9, 2, 8, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:19:07.032449
+Les paramètres: 
+La plaquette: [14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0], Nombre de pas: 100000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 408162 après 7 pas
+Nombre de fitness calculé en tout: 10100042
+Placement pour chaque équipement obtenu: [14, 9, 7, 13, 10, 8, 12, 5, 6, 11, 0, 3, 4, 1, 2]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:13:21.451494
+Les paramètres: 
+La plaquette: [0, 2, 4, 6, 8, 10, 12, 14, 1, 3, 5, 7, 9, 11, 13], Nombre de pas: 100000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 393146 après 99998 pas
+Nombre de fitness calculé en tout: 6901617
+Placement pour chaque équipement obtenu: [1, 9, 5, 12, 8, 7, 6, 11, 4, 13, 0, 14, 2, 10, 3]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:24:33.755890
+Les paramètres: 
+Itération: 10, Nombre de pas: 10000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 390374 après 9998 pas
+Nombre de fitness calculé en tout: 10400102
+Placement pour chaque équipement obtenu: [ 3 13 14  8  5  1  6  9 10  0  7 11  2  4 12]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:26:27.998404
+Les paramètres: 
+Itération: 10, Nombre de pas: 10000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 388214 après 17 pas
+Nombre de fitness calculé en tout: 10000565
+Placement pour chaque équipement obtenu: [ 4  9  3 12  1  8  0 10 11 13  6 14  2  7  5]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:26:36.500205
+Les paramètres: 
+Itération: 10, Nombre de pas: 10000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 393364 après 6 pas
+Nombre de fitness calculé en tout: 9581391
+Placement pour chaque équipement obtenu: [ 3  6  8 12  5  1 11  9 14  7  0 10 13  4  2]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:22:31.078647
+Les paramètres: 
+Itération: 10, Nombre de pas: 10000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 388250 après 9998 pas
+Nombre de fitness calculé en tout: 9112987
+Placement pour chaque équipement obtenu: [ 1 12  3  8  5  0  6 10  2 13  9  7  4 11 14]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:29:03.894185
+Les paramètres: 
+Itération: 10, Nombre de pas: 10000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 389718 après 9998 pas
+Nombre de fitness calculé en tout: 7808588
+Placement pour chaque équipement obtenu: [ 5  3  9 12 13  0  4 14  6  1  7 11  2 10  8]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:06:52.468803
+Les paramètres: 
+Itération: 25, Nombre de pas: 1000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 393884 après 999 pas
+Nombre de fitness calculé en tout: 2600218
+Placement pour chaque équipement obtenu: [ 5  7  9  3 12  8  0 10 13  1  6 14  2 11  4]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:08:35.972655
+Les paramètres: 
+Itération: 25, Nombre de pas: 1000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 391992 après 998 pas
+Nombre de fitness calculé en tout: 2506400
+Placement pour chaque équipement obtenu: [ 8  7  4 10  5  3  6  0  2  1 11 12 13 14  9]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:08:16.082868
+Les paramètres: 
+Itération: 25, Nombre de pas: 1000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 388250 après 998 pas
+Nombre de fitness calculé en tout: 2400391
+Placement pour chaque équipement obtenu: [ 1 12  3  8  5  0  6 10  2 13  9  7  4 11 14]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:08:06.592258
+Les paramètres: 
+Itération: 25, Nombre de pas: 1000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 391666 après 998 pas
+Nombre de fitness calculé en tout: 2206640
+Placement pour chaque équipement obtenu: [ 7  5  2  8  3  6  0  4 12 10  9  1 14 13 11]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:06:47.935680
+Les paramètres: 
+Itération: 25, Nombre de pas: 1000
+Résultat du lancement de l'algo: 
+Fitness obtenue: 394358 après 999 pas
+Nombre de fitness calculé en tout: 1925444
+Placement pour chaque équipement obtenu: [10  8  3  5  2  1  6 13 12  0 11  7  4  9 14]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:01:48.608450
+Les paramètres: 
+Itération: 50, Nombre de pas: 100
+Résultat du lancement de l'algo: 
+Fitness obtenue: 388214 après 99 pas
+Nombre de fitness calculé en tout: 520431
+Placement pour chaque équipement obtenu: [ 4  9  3 12  1  8  0 10 11 13  6 14  2  7  5]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:01:41.567321
+Les paramètres: 
+Itération: 50, Nombre de pas: 100
+Résultat du lancement de l'algo: 
+Fitness obtenue: 388214 après 98 pas
+Nombre de fitness calculé en tout: 503483
+Placement pour chaque équipement obtenu: [ 4  9  3 12  1  8  0 10 11 13  6 14  2  7  5]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:01:46.403345
+Les paramètres: 
+Itération: 50, Nombre de pas: 100
+Résultat du lancement de l'algo: 
+Fitness obtenue: 388250 après 19 pas
+Nombre de fitness calculé en tout: 486457
+Placement pour chaque équipement obtenu: [ 1 12  3  8  5  0  6 10  2 13  9  7  4 11 14]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:01:29.718979
+Les paramètres: 
+Itération: 50, Nombre de pas: 100
+Résultat du lancement de l'algo: 
+Fitness obtenue: 389718 après 99 pas
+Nombre de fitness calculé en tout: 461170
+Placement pour chaque équipement obtenu: [ 5  3  9 12 13  0  4 14  6  1  7 11  2 10  8]
+----------------------------------------------------------------------------------
+Temps d'exécution :0:01:28.235915
+Les paramètres: 
+Itération: 50, Nombre de pas: 100
+Résultat du lancement de l'algo: 
+Fitness obtenue: 390258 après 9 pas
+Nombre de fitness calculé en tout: 435274
+Placement pour chaque équipement obtenu: [ 3  7  1 10  5 12  6  2  0 13  9  8 14 11  4]
+----------------------------------------------------------------------------------

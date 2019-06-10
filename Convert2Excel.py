@@ -49,12 +49,20 @@ def convert_aleatoire(file_number: str):
 
         file.readline()
         # Solution
-        research = re.search("\\[(.*)\\]", file.readline())
-        ws['H'+row_str] = "["+research.group(1)+"]"
+        '''research = re.search("\\[(.*)\\]", file.readline())
+        ws['H'+row_str] = "["+research.group(1)+"]"'''
+
+        research = re.search("\\[(.*)", file.readline())
+        solution = "[" + research.group(1)
+        next_line = file.readline()
+        while not next_line.startswith("-----"):
+            solution += next_line
+            next_line = file.readline()
+
+        ws['H' + row_str] = solution
 
         row_int += 1
         row_str = str(row_int)
-        file.readline()
         temps_exe_and_oef_check = file.readline()
     wb.save('result/Resultats.xlsx')
     file.close()
@@ -117,12 +125,20 @@ def convert_recuit(file_number: str):
 
         file.readline()
         # Solution
-        research = re.search("\\[(.*)\\]", file.readline())
-        ws['L'+row_str] = "["+research.group(1)+"]"
+        '''research = re.search("\\[(.*)\\]", file.readline())
+        ws['L'+row_str] = "["+research.group(1)+"]"'''
+
+        research = re.search("\\[(.*)", file.readline())
+        solution = "[" + research.group(1)
+        next_line = file.readline()
+        while not next_line.startswith("-----"):
+            solution += next_line
+            next_line = file.readline()
+
+        ws['L' + row_str] = solution
 
         row_int += 1
         row_str = str(row_int)
-        file.readline()
         temps_exe_and_oef_check = file.readline()
     wb.save('result/Resultats.xlsx')
     file.close()
@@ -178,12 +194,20 @@ def convert_tabou(file_number: str):
         ws['J'+row_str] = float(nb_fitness[1].strip())
         ws['J' + row_str].number_format = number_format
         # Solution
-        research = re.search("\\[(.*)\\]", file.readline())
-        ws['K'+row_str] = "["+research.group(1)+"]"
+        '''research = re.search("\\[(.*)\\]", file.readline())
+        ws['K'+row_str] = "["+research.group(1)+"]"'''
+
+        research = re.search("\\[(.*)", file.readline())
+        solution = "[" + research.group(1)
+        next_line = file.readline()
+        while not next_line.startswith("-----"):
+            solution += next_line
+            next_line = file.readline()
+
+        ws['K' + row_str] = solution
 
         row_int += 1
         row_str = str(row_int)
-        file.readline()
         temps_exe_and_oef_check = file.readline()
     wb.save('result/Resultats.xlsx')
     file.close()

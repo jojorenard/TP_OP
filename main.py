@@ -1,11 +1,11 @@
-from openpyxl import load_workbook
+'''from openpyxl import load_workbook
 
 from Methodes.aleatoire import Aleatoire
 from Methodes.Tabou import Tabou
 from Methodes.Recuit import Recuit
 import tools
 import random
-import numpy as np
+import numpy as np'''
 import RunTest
 import Convert2Excel as convert
 
@@ -92,7 +92,6 @@ def lancer_tabou(iteration, weights, distances, tabou_size=20, nb_pas=100, limit
 # RunTest.run_recuit("12")'''
 
 
-
 # Pour executer les aléatoires
 # RunTest.run_aleatoire("12")
 # RunTest.run_aleatoire("15")
@@ -122,6 +121,7 @@ RunTest.run_recuit("60")
 RunTest.run_recuit("80")
 RunTest.run_recuit("100")'''
 
+print("Started")
 # Pour executer les tabous
 # RunTest.run_tabou("12")
 # RunTest.run_tabou("15")
@@ -151,7 +151,7 @@ convert.convert_aleatoire("60")
 convert.convert_aleatoire("80")
 convert.convert_aleatoire("100")'''
 
-'''convert.convert_recuit("12")
+convert.convert_recuit("12")
 convert.convert_recuit("15")
 convert.convert_recuit("17")
 convert.convert_recuit("20")
@@ -162,7 +162,7 @@ convert.convert_recuit("40")
 convert.convert_recuit("50")
 convert.convert_recuit("60")
 convert.convert_recuit("80")
-convert.convert_recuit("100")'''
+convert.convert_recuit("100")
 
 '''convert.convert_tabou("12")
 convert.convert_tabou("15")
