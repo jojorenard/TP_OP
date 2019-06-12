@@ -151,7 +151,7 @@ convert.convert_aleatoire("60")
 convert.convert_aleatoire("80")
 convert.convert_aleatoire("100")'''
 
-convert.convert_recuit("12")
+'''convert.convert_recuit("12")
 convert.convert_recuit("15")
 convert.convert_recuit("17")
 convert.convert_recuit("20")
@@ -162,7 +162,7 @@ convert.convert_recuit("40")
 convert.convert_recuit("50")
 convert.convert_recuit("60")
 convert.convert_recuit("80")
-convert.convert_recuit("100")
+convert.convert_recuit("100")'''
 
 '''convert.convert_tabou("12")
 convert.convert_tabou("15")
