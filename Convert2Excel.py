@@ -20,7 +20,13 @@ def convert_aleatoire(file_number: str):
         ws['A'+row_str] = int(file_number)
 
         # Temps d'exécution
-        ws['E' + row_str] = temps_exe_and_oef_check.split(" ")[2].strip(":")
+        '''ws['E' + row_str] = temps_exe_and_oef_check.split(" ")[2].strip(":")'''
+
+        temps = temps_exe_and_oef_check.split(" ")[2].strip(":").split(":")
+        temps_s_ms = temps[2].split(".")
+        calcul_temps = (int(temps[0]) * 60) + int(temps[1]) + (int(temps_s_ms[0]) / 60)
+        ws['E' + row_str] = calcul_temps
+        ws['E' + row_str].number_format = "0.00"
 
         # Plaquette ou Random
         file.readline()
@@ -86,7 +92,13 @@ def convert_recuit(file_number: str):
         ws['A'+row_str] = int(file_number)
 
         # Temps d'exécution
-        ws['I' + row_str] = temps_exe_and_oef_check.split(" ")[2].strip(":")
+        '''ws['I' + row_str] = temps_exe_and_oef_check.split(" ")[2].strip(":")'''
+
+        temps = temps_exe_and_oef_check.split(" ")[2].strip(":").split(":")
+        temps_s_ms = temps[2].split(".")
+        calcul_temps = (int(temps[0]) * 60) + int(temps[1]) + (int(temps_s_ms[0]) / 60)
+        ws['I' + row_str] = calcul_temps
+        ws['I' + row_str].number_format = "0.00"
 
         # Plaquette ou Random
         file.readline()
@@ -162,7 +174,13 @@ def convert_tabou(file_number: str):
         ws['A'+row_str] = int(file_number)
 
         # Temps d'exécution
-        ws['G' + row_str] = temps_exe_and_oef_check.split(" ")[2].strip(":")
+        '''ws['G' + row_str] = temps_exe_and_oef_check.split(" ")[2].strip(":")'''
+
+        temps = temps_exe_and_oef_check.split(" ")[2].strip(":").split(":")
+        temps_s_ms = temps[2].split(".")
+        calcul_temps = (int(temps[0]) * 60) + int(temps[1]) + (int(temps_s_ms[0]) / 60)
+        ws['G' + row_str] = calcul_temps
+        ws['G' + row_str].number_format = "0.00"
 
         # Plaquette ou Random
         file.readline()
